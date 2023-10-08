@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "MovieName": "Killers of the Flower Moon",
+      "MovieGenre": ["Drama", "Crime"],
+      "Actors": ["Leonardo DiCaprio", "Lily Gladstone"],
+      "ProductionCompany": "Rodrigo Prieto",
+      "ReleaseDate": "2023-10-20",
+      "Quantity": 50,
+      "Cost": 12.99
+    },
+    {
+      "MovieName": "Beautifully Broken",
+      "MovieGenre": "Drama",
+      "Actors": ["Caitlin Nicol-Thomas", "Benjamin A Onyango"],
+      "ProductionCompany": "Big Film Factory",
+      "ReleaseDate": "2018-08-24",
+      "Quantity": 40,
+      "Cost": 9.99
+    },
+    {
+      "MovieName": "The Exorcist: Believer",
+      "MovieGenre": ["Thriller", "Horror"],
+      "Actors": ["Ellen Burstyn", "Lidya Jewett"],
+      "ProductionCompany": "Hoya Production",
+      "ReleaseDate": "2023-10-06",
+      "Quantity": 30,
+      "Cost": 14.99
+    }
+  ]
+}
